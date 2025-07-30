@@ -1,1 +1,1 @@
-# Scripts for my YouTube Azure Hub-Spoke Topology videp: https://youtu.be/DswJufqyYE8
+# Scripts for my YouTube Azure Hub-Spoke Topology video: https://youtu.be/DswJufqyYE8
