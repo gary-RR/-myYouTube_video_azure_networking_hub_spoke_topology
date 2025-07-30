@@ -1,1 +1,1 @@
-# -myYouTube_video_azure_networking_hub_spoke_topology
+# Scripts for my YouTube Azure Hub-Spoke Topology videp: https://youtu.be/DswJufqyYE8
